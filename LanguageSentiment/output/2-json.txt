@@ -1,0 +1,83 @@
+{
+    "documents": [
+        {
+            "id": "id__840",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.01,
+                "neutral": 0.47,
+                "negative": 0.52
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.63,
+                        "negative": 0.29
+                    },
+                    "offset": 0,
+                    "length": 16,
+                    "text": "“Ah, excuse me. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.86,
+                        "negative": 0.07
+                    },
+                    "offset": 16,
+                    "length": 31,
+                    "text": "Of course, Colonel von Lergen. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.95,
+                        "negative": 0.03
+                    },
+                    "offset": 47,
+                    "length": 13,
+                    "text": "What is it?” ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.48,
+                        "negative": 0.43
+                    },
+                    "offset": 60,
+                    "length": 149,
+                    "text": "Suddenly realizing she hasn’t greeted him properly, Tanya takes a step back and extends her hand to the brim of her cap in a picture-perfect salute. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.47,
+                        "negative": 0.52
+                    },
+                    "offset": 209,
+                    "length": 170,
+                    "text": "As she thinks about ways to smooth over the situation, the gears of her brain go into overdrive, trying to remember if she has let something slip that she shouldn’t have.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}

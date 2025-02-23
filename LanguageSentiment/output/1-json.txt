@@ -1,0 +1,70 @@
+{
+    "documents": [
+        {
+            "id": "id__620",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.01,
+                "neutral": 0.2,
+                "negative": 0.8
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.89,
+                        "negative": 0.06
+                    },
+                    "offset": 0,
+                    "length": 2,
+                    "text": "“…",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.17,
+                        "negative": 0.81
+                    },
+                    "offset": 2,
+                    "length": 136,
+                    "text": "And at this moment, they believe that this mysterious three-fingered man is the killer, but there’s a lot more that I don’t understand. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.22,
+                        "negative": 0.78
+                    },
+                    "offset": 138,
+                    "length": 163,
+                    "text": "First of all, Ryuji—he turned up unexpectedly early on the morning after the murders, walking into the grounds with Saburo, saying he’d just got back from Kyushu. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.81,
+                        "negative": 0.16
+                    },
+                    "offset": 301,
+                    "length": 111,
+                    "text": "But I could swear that when I travelled from Tamashima with Katsuko one day earlier, he was on the same train.”",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
